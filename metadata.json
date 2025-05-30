@@ -1,0 +1,5 @@
+{
+  "name": "EV Travel Assistant",
+  "description": "An application to help electric vehicle owners plan their long-distance trips, including calculating charging stops and suggesting nearby activities during charging.",
+  "requestFramePermissions": []
+}
